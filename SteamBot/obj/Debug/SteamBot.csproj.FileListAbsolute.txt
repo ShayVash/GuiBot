@@ -1,0 +1,14 @@
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.exe.config
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.exe
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamBot.pdb
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.dll
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamKit2.dll
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.pdb
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\protobuf-net.xml
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\bin\Debug\SteamKit2.xml
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.csprojResolveAssemblyReference.cache
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.Form1.resources
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.Properties.Resources.resources
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.csproj.GenerateResource.Cache
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.exe
+c:\users\shay\documents\visual studio 2015\Projects\SteamBot\SteamBot\obj\Debug\SteamBot.pdb
