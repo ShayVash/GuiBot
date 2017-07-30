@@ -15,8 +15,8 @@ namespace SteamBot
     public partial class Form1 : Form
     {
         static String version = "0.6";
-        static String username = "KovetsBot";
-        static String password = "mZ7ezeYUF5DWc2LddT3UWGZe";
+        static String username = "";
+        static String password = "";
         static SteamClient steamclient;
         static CallbackManager manager;
         static SteamUser steamuser;
@@ -33,6 +33,7 @@ namespace SteamBot
         }
         private void Form1_Shown(Object sender, EventArgs e)
         {
+        
         }
 
         
