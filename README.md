@@ -10,5 +10,5 @@ Simple download the latest realese and start the bot, after that press the "Bot"
 ### Needed updates
 
 - [ ] Fix the send a message function
-- [ ] Fix the chat features
+- [ ] Fix the chatBot functions
 - [ ] add more intresting commends
